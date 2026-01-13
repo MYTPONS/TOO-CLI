@@ -4,7 +4,7 @@
 
 **AI 编程助手 - 终端原生，支持多 AI 提供商，智能工具调用**
 
-[![Version](https://img.shields.io/badge/version-0.0.1--test-orange)](https://github.com/yourusername/too-cli)
+[![Version](https://img.shields.io/badge/version-0.0.1--test-orange)](https://github.com/MYTPONS/TOO-CLI)
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
 [![Node](https://img.shields.io/badge/node-%3E%3D18.0.0-green.svg)](https://nodejs.org)
 [![TypeScript](https://img.shields.io/badge/typescript-5.4.5-blue.svg)](https://www.typescriptlang.org)
@@ -333,8 +333,8 @@ too-cli/
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/too-cli.git
-cd too-cli
+git clone https://github.com/MYTPONS/TOO-CLI.git
+cd TOO-CLI
 
 # 安装依赖
 npm install
@@ -417,8 +417,10 @@ npm run format
 
 ## 联系方式
 
-- **GitHub**: [https://github.com/yourusername/too-cli](https://github.com/yourusername/too-cli)
-- **Issues**: [https://github.com/yourusername/too-cli/issues](https://github.com/yourusername/too-cli/issues)
+- **作者**: MYTPONS
+- **邮箱**: 1453294616@qq.com
+- **GitHub**: [https://github.com/MYTPONS/TOO-CLI](https://github.com/MYTPONS/TOO-CLI)
+- **Issues**: [https://github.com/MYTPONS/TOO-CLI/issues](https://github.com/MYTPONS/TOO-CLI/issues)
 
 ---
 

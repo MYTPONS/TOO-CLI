@@ -64,14 +64,14 @@
 
 ```bash
 # 1. Fork 仓库
-# 访问 https://github.com/yourusername/too-cli 并点击 Fork 按钮
+# 访问 https://github.com/MYTPONS/TOO-CLI 并点击 Fork 按钮
 
 # 2. 克隆仓库
 git clone https://github.com/YOUR_USERNAME/too-cli.git
 cd too-cli
 
 # 3. 添加上游仓库
-git remote add upstream https://github.com/yourusername/too-cli.git
+git remote add upstream https://github.com/MYTPONS/TOO-CLI.git
 ```
 
 ### 安装依赖
@@ -546,8 +546,8 @@ describe('UserManager', () => {
 
 ### 联系方式
 
-- GitHub: https://github.com/yourusername/too-cli
-- Issues: https://github.com/yourusername/too-cli/issues
+- GitHub: https://github.com/MYTPONS/TOO-CLI
+- Issues: https://github.com/MYTPONS/TOO-CLI/issues
 
 ---
 
